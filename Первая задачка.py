@@ -12,9 +12,4 @@ def transform_number(a, b):
             print("Невозможно")
             return
     
-    print("из a можно получить b")
-
-# Пример использования:
-a = 3
-b = 45
-transform_number(a, b)
+   
