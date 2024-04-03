@@ -12,6 +12,6 @@ def calculate_total_price(check):
     
     return total_price
 
-check = "apple2.5banana1.75orange3tomato5"
+check = "cheese145.79tomato25.99"
 total_price = calculate_total_price(check)
 print(f"Total price: {total_price}")
