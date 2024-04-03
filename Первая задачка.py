@@ -11,5 +11,7 @@ def transform_number(a, b):
         else:
             print("Невозможно")
             return
-    
+a = 3
+b = 45
+transform_number(a, b)
    
